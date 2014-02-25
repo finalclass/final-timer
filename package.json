@@ -1,6 +1,6 @@
 {
   "name": "final-timer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Timer class (wrapper for setTimeout and setInterval). Based on AS3 Timer class",
   "main": "index.js",
   "scripts": {
