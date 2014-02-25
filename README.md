@@ -2,7 +2,7 @@
 
 Timer class (wrapper for setTimeout and setInterval). Based on AS3 Timer class
 
-### Read the source code, it's well documented.
+Read the source code.
 
 ### Example
 
